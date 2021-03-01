@@ -1,0 +1,5 @@
+--swiftversion 5.3
+--disable redundantReturn
+--ifdef no-indent
+--stripunusedargs unnamed-only
+
